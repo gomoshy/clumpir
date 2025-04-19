@@ -1,4 +1,4 @@
-# clumpir
+# [clumpir](https://github.com/gomoshy/clumpir)
 
 ## Title
 **Calculate Clumpiness per Group**
