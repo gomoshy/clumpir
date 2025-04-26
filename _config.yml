@@ -1,2 +1,4 @@
+url: "https://gomoshy.github.io"
+baseurl: "/clumpir"
 plugins:
   - jekyll-sitemap
